@@ -31,7 +31,7 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
        rel="noopener">
       <strong>ELDP Principal Investigator</strong>
       <span>Multi-year Uneme documentation project</span>
-      <small>University of Rochester →</small>
+      <small>ELAR →</small>
     </a>
 
     <a class="credential credential-link"
@@ -72,25 +72,12 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
     </div>
     <div class="grid-3">
       <article class="card"><h3>Low-Resource Speech Technology</h3><p>ASR, cross-lingual transfer, data-efficient adaptation, naturalistic speech, style mismatch, tonal contrasts, and robust evaluation for languages with limited training data.</p><div class="tag-row"><span class="tag">ASR</span><span class="tag">Whisper</span><span class="tag">XLS-R</span><span class="tag">Cross-lingual transfer</span></div></article>
-      <article class="card"><h3>Documentation, Corpora & Resources</h3><p>Community-based fieldwork, audiovisual documentation, annotation, corpus building, lexical resources, bilingual dictionaries, and archival workflows designed for both linguistic and computational reuse.</p><div class="tag-row"><span class="tag">ELAN</span><span class="tag">FLEx</span><span class="tag">ELAR</span><span class="tag">Corpus design</span></div></article>
-      <article class="card"><h3>Grammar, Variation & AI Evaluation</h3><p>Tense, aspect, negation, grammatical tone, focus, clause structure, variation, and model-error analysis grounded in language-specific phonology and grammar.</p><div class="tag-row"><span class="tag">Tone</span><span class="tag">TAM</span><span class="tag">Variation</span><span class="tag">Error analysis</span></div></article>
+      <article class="card"><h3>Documentation, Corpora & Resources</h3><p>Community-based fieldwork, audiovisual documentation, annotation, corpus building, lexical resources, multilingual dictionaries, and archival workflows designed for both linguistic and computational reuse.</p><div class="tag-row"><span class="tag">ELAN</span><span class="tag">FLEx</span><span class="tag">ELAR</span><span class="tag">Corpus design</span></div></article>
+      <article class="card"><h3>Grammar, Variation & AI Evaluation</h3><p>Tense, aspect, negation, grammatical tone, clause structure, variation, and model-error analysis grounded in language-specific phonology and grammar.</p><div class="tag-row"><span class="tag">Tone</span><span class="tag">TAM</span><span class="tag">Variation</span><span class="tag">Error analysis</span></div></article>
     </div>
   </div>
 </section>
 
-<section class="section alt">
-  <div class="shell">
-    <div class="section-head"><p class="kicker">How I work</p><h2>Documentation and technology as one research ecosystem</h2></div>
-    <div class="pipeline">
-      <div class="step"><span>01</span><strong>Fieldwork</strong></div>
-      <div class="step"><span>02</span><strong>Documentation</strong></div>
-      <div class="step"><span>03</span><strong>Annotated corpora</strong></div>
-      <div class="step"><span>04</span><strong>Grammar & variation</strong></div>
-      <div class="step"><span>05</span><strong>Speech / NLP models</strong></div>
-      <div class="step"><span>06</span><strong>Linguistic evaluation</strong></div>
-    </div>
-  </div>
-</section>
 
 <section class="section">
   <div class="shell">
@@ -244,13 +231,7 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
 
         <p>
           I welcome conversations with researchers, language communities, research labs,
-          and organizations working on low-resource speech technology, African language
-          documentation, speech and text datasets, linguistically informed model evaluation,
-          and computational tools for underdescribed languages.
-        </p>
-
-        <p>
-          I am especially interested in collaborations that connect
+          and organizations. I am especially interested in collaborations that connect
           <strong> data, language structure, and computational modeling</strong>
           in ways that expand both scientific understanding and technological access.
         </p>
@@ -279,7 +260,7 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
       <div class="feature-meta">
         <strong>Research areas</strong>
         <p>
-          Low-resource ASR · African languages · Language documentation ·
+          Low-resource ASR · African languages · Language documentation · 
           Corpus development · Linguistically informed AI
         </p>
 
