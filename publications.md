@@ -14,7 +14,7 @@ permalink: /publications/
 
 ## 2022
 <div class="publication"><div class="venue">Language Review: An International Journal of Linguistics</div><h3>A Pragmatic Analysis of Questions in <em>Efunroye Tinubu</em></h3><p><strong>Lateef Adeleke</strong>.</p></div>
-<div class="publication"><div class="venue">Journal of Yoruba Studies Association of Nigeria</div><h3>Pragmatic Functions of Rhetorical Questions in <em>Efunroye Tinubu</em></h3><p><strong>Lateef Adeleke</strong>.</p></div>
+<div class="publication"><div class="venue">Journal of Yoruba Studies Association of Nigeria</div><h3>Pragmatic Functions of Rhetorical Questions in <em>Efunroye Tinubu</em></h3><p><strong>Simeon Olaogun </strong> & Lateef Adeleke</strong>.</p></div>
 
 <p style="margin-top:2rem">For the most current citation record, see my <a href="https://scholar.google.com/citations?user=X0P-tGcAAAAJ&hl=en">Google Scholar profile</a>.</p>
 </div>
